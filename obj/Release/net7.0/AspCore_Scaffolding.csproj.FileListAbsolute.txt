@@ -1,0 +1,6 @@
+C:\Estudos\AspCore_Scaffolding\obj\Release\net7.0\AspCore_Scaffolding.csproj.AssemblyReference.cache
+C:\Estudos\AspCore_Scaffolding\obj\Release\net7.0\AspCore_Scaffolding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\AspCore_Scaffolding\obj\Release\net7.0\AspCore_Scaffolding.csproj.CoreCompileInputs.cache
+C:\Estudos\AspCore_Scaffolding\obj\Release\net7.0\AspCore_Scaffolding.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos\AspCore_Scaffolding\obj\Release\net7.0\AspCore_Scaffolding.RazorAssemblyInfo.cache
+C:\Estudos\AspCore_Scaffolding\obj\Release\net7.0\AspCore_Scaffolding.RazorAssemblyInfo.cs
